@@ -7,3 +7,4 @@ deploy to staging
 echo "good job"
 Testes and accepted
 Devops is rich
+devops is good
